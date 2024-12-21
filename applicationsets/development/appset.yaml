@@ -18,7 +18,7 @@ spec:
         server: https://kubernetes.default.svc
       source:
         path: applications
-        repoURL: https://github.com/cbagade/k8-ocp-argo-all
+        repoURL: https://github.com/Anant-spec/k8-ocp-argo-all
         targetRevision: code
       syncPolicy:
         automated:
